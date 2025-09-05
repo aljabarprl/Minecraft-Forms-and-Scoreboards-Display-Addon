@@ -1,0 +1,42 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Skill UI BP",
+        "description": "Behavior Pack UI for item Skill by Pasa",
+        "min_engine_version": [1, 19, 60],
+        "uuid": "6b603d5f-cf6b-4a1f-95b3-85e72f8bde5d",
+        "version": [0, 0, 1]
+    },
+    "metadata": {
+        "url": "https://github.com/aljabarprl"
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "f6503d86-b6d0-4972-ba43-b03eeba8ce24",
+            "version": [0, 0, 1]
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "4477d450-844c-41a1-81e7-b9e08057fa43",
+            "entry": "scripts/main.js",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "3e6800ad-cc7a-461e-9932-b97d2a743dec",
+            "version": [0, 0, 1]
+        },
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.16.0"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.3.0"
+        }
+    ]
+}
+

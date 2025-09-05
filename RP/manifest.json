@@ -1,0 +1,24 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Skill UI RP",
+        "description": "Resource Pack UI for item Skill by Pasa",
+        "min_engine_version": [1, 19, 60],
+        "uuid": "3e6800ad-cc7a-461e-9932-b97d2a743dec",
+        "version": [0, 0, 1]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "3abb9925-40b0-4194-ad37-8342aae93c02",
+            "version": [0, 0, 1]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "440ac16a-a636-41da-89a4-64edbb06f4f1",
+            "version": [0, 0, 1]
+        }
+    ]
+}
+
