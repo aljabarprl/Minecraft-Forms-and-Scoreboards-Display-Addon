@@ -12,7 +12,7 @@ const ui = new ActionFormData()
     .button("Show to Player")
     .button("Instructions");
 
-// Custom UI Forms Credit to @Denzel for the assets
+// Custom UI Forms Credit to @Dingsel for the assets
 const customUi = new ActionFormData()
     .title("Custom Form")
     .body("Select Something Here")
