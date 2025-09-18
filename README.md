@@ -1,4 +1,4 @@
-# 📦 Minecraft Forms and Scoreboards Display Addon
+# Minecraft Forms and Scoreboards Display Addon
 
 Addon scripting untuk Minecraft Bedrock Edition.
 Fitur:
@@ -7,12 +7,12 @@ Fitur:
 - Set lore untuk beberapa item
 - Scoreboard Display (karena keterbatasan API untuk ping masih statis)
 
-## 📂 Struktur
+## Struktur
 - BP/ → Behavior Pack
 - RP/ → Resource Pack
 - scripts/ → main.js → import .js 
 
-## 🚀 Cara Install
+## Cara Install
 1. Compress `BP` dan `RP` menjadi ZIP → rename format `.zip` ke `.mcaddon`.
 2. Aktifkan di dunia Minecraft (Pastikan Mode experimental dan Enable Beta Apis)
 3. Wajib memasang Addon "Extra Tools and Skills" terlebih dahulu untuk mengimport itemnya (pada project Scripts & Functions)
