@@ -1,6 +1,6 @@
-
-*.json linguist-language=JSON
-
-*.jsonl linguist-language=JSON
-
 *.lang linguist-language=INI
+
+* text=auto
+*.json linguist-detectable=true
+*.jsonl linguist-detectable=true
+*.lang linguist-detectable=true
